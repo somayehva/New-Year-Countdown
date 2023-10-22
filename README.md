@@ -6,7 +6,7 @@ Create an engaging landing page that counts down from the current date to the ne
 
 ## Demo
 
-You can try the live demo [here](link-to-your-live-demo).
+You can try the live demo [here](http://somayeh.me/new-year-countdown/).
 
 ## Technologies Used
 
@@ -24,4 +24,4 @@ You can try the live demo [here](link-to-your-live-demo).
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
